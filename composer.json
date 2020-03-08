@@ -1,7 +1,0 @@
-{
-    "require": {
-        "m/rjgreen/databas/e": "^2.5",
-        "b/ramus/route/r": "~1.4",
-        "twig/twig": "^3.0"
-    }
-}
